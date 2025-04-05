@@ -1,7 +1,7 @@
+
 # travelers-website
 Project Title: Pack Your Bags - Travel Website  
-Technologies Used: HTML5, CSS3  ![Screenshot 2025-04-05 173021](https://github.com/user-attachments/assets/d5d2a888-dfff-44a3-8db6-a7c250eafd64)
-
+Technologies Used: HTML5, CSS3 
 Developer: jhansi 
 
 Description:  
@@ -32,6 +32,8 @@ Features:
 - Stylish and responsive design using CSS3, adaptable to all screen sizes.
 - Smooth navigation and visually appealing layout.
 - Ideal for showcasing travel content and attracting potential customers.
+-  ![Screenshot 2025-04-05 173021](https://github.com/user-attachments/assets/d5d2a888-dfff-44a3-8db6-a7c250eafd64)
+
 
 Purpose:
 This website was built as a personal portfolio project to demonstrate frontend development skills using HTML5 and CSS3. It also serves as a functional template for travel agencies and blogs under the brand "Pack Your Bags."
